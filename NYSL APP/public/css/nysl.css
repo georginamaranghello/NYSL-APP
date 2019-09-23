@@ -1,0 +1,15 @@
+.col {
+    display: flex;
+    padding: 100px;
+    background-position:bottom;
+    margin: 5px;
+    background-image:url(1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.col-sm-12{
+    
+    background-color: whitesmoke;
+    
+}

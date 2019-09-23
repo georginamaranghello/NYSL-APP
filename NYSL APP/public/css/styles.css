@@ -1,0 +1,24 @@
+
+
+.header{
+	position: relative;
+}
+
+.accordion{
+    
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#games{
+    
+    padding-top: 50px;
+    
+}
+
+@media (min-width: 700px) and (orientation: landscape) { 
+
+
+}
+
